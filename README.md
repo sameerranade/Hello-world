@@ -1,4 +1,6 @@
 Hello-world
 ===========
 
-My first repository on GitHub
+Hi I am Sameer.
+This is my first repository on GitHub.
+
